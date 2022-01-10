@@ -1,5 +1,5 @@
 ### Data Science @ Millennium Management
-📫 How to reach me: [Linkedin](http://www.linkedin.com/in/jamieclery)
+📫 [Linkedin](http://www.linkedin.com/in/jamieclery)
 <!--
 **c-jamie/c-jamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
